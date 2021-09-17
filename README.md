@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jonathan
 #### Aspiring Malware Analyst | Software Engineer
-![Aspiring Malware Analyst | Software Engineer](https://github.com/L0WK3Y-IAAN/L0WK3Y-IAAN/blob/main/ezgif.com-gif-maker.gif?raw=true)
+<img src="https://github.com/L0WK3Y-IAAN/L0WK3Y-IAAN/blob/main/ezgif.com-gif-maker.gif?raw=true" width:100% height:300>
 
 Forward-thinking Software Engineer with background working
 effectively in dynamic environments. Fluent in Python and
