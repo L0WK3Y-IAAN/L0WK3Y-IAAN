@@ -2,9 +2,12 @@
 #### Aspiring Malware Analyst | Software Engineer
 ![Aspiring Malware Analyst | Software Engineer](https://github.com/L0WK3Y-IAAN/L0WK3Y-IAAN/blob/main/ezgif.com-gif-maker.gif?raw=true)
 
-My name is Jonathan Suttle, and I am a Cyber Security enthusiast.
-
-My goal is to work my way into becoming a malware analyst and exploit developer, I am currently pursuing the GIAC: GREM certification along with a few other certifications. I have experience with malware analysis, reverse engineering, OSINT, penetration testing and software engineering.
+Forward-thinking Software Engineer with background working
+effectively in dynamic environments. Fluent in Python and
+Javascript programming languages used to develop Web
+Applications. Enjoys learning about the cyber security field,
+specifically doing hands-on malware analysis and reverse
+engineering as a hobby.
 
 #
 
