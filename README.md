@@ -6,7 +6,7 @@ My name is Jonathan Suttle, and I am a Cyber Security enthusiast.
 
 My goal is to work my way into becoming a malware analyst and exploit developer, I am currently pursuing the GIAC: GREM certification along with a few other certifications. I have experience with malware analysis, reverse engineering, OSINT, penetration testing and software engineering.
 
-<br>
+#
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
@@ -25,7 +25,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN)](https://github.com/anuraghazra/github-readme-stats)
 
