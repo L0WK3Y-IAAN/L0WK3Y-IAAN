@@ -12,13 +12,13 @@ specifically doing hands-on malware analysis and reverse
 engineering as a hobby.
 
 
-- 🔭  I’m currently working on this page. 
-- 🌱  I’m currently learning Reverse Engineering. 
-- 🤔  I’m looking for help with finding entry level work. 
-- 💬  Ask me about my work experience. 
-- 📫  How to reach me: l0wk3y@iaansec.net. 
-- 😄  Pronouns: he/him. 
-- ⚡  Fun fact: I am also a music producer. 
+- 🔭  I’m currently working on this page
+- 🌱  I’m currently learning Reverse Engineering
+- 🤔  I’m looking for help with finding entry level work
+- 💬  Ask me about my work experience
+- 📫  How to reach me: l0wk3y@iaansec.net
+- 😄  Pronouns: he/him
+- ⚡  Fun fact: I am also a music producer
 
 
 [![Website](https://img.shields.io/website?label=iaansec.com&style=for-the-badge&url=https%3A%2F%2Fiaansec.com&color=green)](https://iaansec.com) [![Website](https://img.shields.io/website?label=dev.to&style=for-the-badge&url=https%3A%2F%2Fdev.to/l0wk3y&color=orange)](https://dev.to/l0wk3y) [![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com/l0wk3y&color=yellow)](https://github.com/L0WK3Y-IAAN) [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/l0wk3yiaansec/&color=blue)](https://www.linkedin.com/in/l0wk3yiaansec/)
