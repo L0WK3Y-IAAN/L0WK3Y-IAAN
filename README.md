@@ -12,26 +12,26 @@ engineering as a hobby.
 #
 
 ### 💼 Experience
-[✔] Experience doing Packet Analysis with Wireshark
-[✔] Has conducted vulnerability research/assessment (MITRE ATT&CK, Nessus)
-[✔] Experience with Google Dorking
-[✔] Understands Linux fundamentals
-[✔] Experience mapping networks with NMAP
-[✔] Experience exploiting vulnerabilities with Metasploit
-[✔] Experience developing and automating security tools with Python and C#
-[✔] Understands HTTP fundamentals
-[✔] Understands Networking Concepts (TCP/IP - OSI)
-[✔] Experience conducting Static and Dynamic Malware Analysis
-[✔] Experience with XSS
-[✔] Experience with SIEM (Splunk)
-[✔] Has experience with OSINT, IMINT, GEOINT, and Reconnaissance
-[✔] Front-End Development (Javascript, React)
-[✔] Solid understanding of Programming Fundamentals
-[✔] Experience with Technical Writing
-[✔] Experience with JIRA and Confluence
-Topics in progress:
-[✔] Malware Analysis
-[✔] Digital Forensics
+- [✔] Experience doing Packet Analysis with Wireshark
+- [✔] Has conducted vulnerability research/assessment (MITRE ATT&CK, Nessus)
+- [✔] Experience with Google Dorking
+- [✔] Understands Linux fundamentals
+- [✔] Experience mapping networks with NMAP
+- [✔] Experience exploiting vulnerabilities with Metasploit
+- [✔] Experience developing and automating security tools with Python and C#
+- [✔] Understands HTTP fundamentals
+- [✔] Understands Networking Concepts (TCP/IP - OSI)
+- [✔] Experience conducting Static and Dynamic Malware Analysis
+- [✔] Experience with XSS
+- [✔] Experience with SIEM (Splunk)
+- [✔] Has experience with OSINT, IMINT, GEOINT, and Reconnaissance
+- [✔] Front-End Development (Javascript, React)
+- [✔] Solid understanding of Programming Fundamentals
+- [✔] Experience with Technical Writing
+- [✔] Experience with JIRA and Confluence
+  Topics in progress:
+- [✔] Malware Analysis
+- [✔] Digital Forensics
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Reverse Engineering 
