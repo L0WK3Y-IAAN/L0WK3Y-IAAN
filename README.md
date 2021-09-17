@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Jonathan
-#### Aspiring Malware Analyst | Software Engineer
 <img src="https://github.com/L0WK3Y-IAAN/L0WK3Y-IAAN/blob/main/ezgif.com-gif-maker.gif?raw=true" width=100% height=300>
 
+### Hi there 👋, my name is Jonathan
+#### Aspiring Malware Analyst | Software Engineer
 Forward-thinking Software Engineer with background working
 effectively in dynamic environments. Fluent in Python and
 Javascript programming languages used to develop Web
@@ -11,7 +11,27 @@ engineering as a hobby.
 
 #
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+### 💼 Experience
+[✔] Experience doing Packet Analysis with Wireshark
+[✔] Has conducted vulnerability research/assessment (MITRE ATT&CK, Nessus)
+[✔] Experience with Google Dorking
+[✔] Understands Linux fundamentals
+[✔] Experience mapping networks with NMAP
+[✔] Experience exploiting vulnerabilities with Metasploit
+[✔] Experience developing and automating security tools with Python and C#
+[✔] Understands HTTP fundamentals
+[✔] Understands Networking Concepts (TCP/IP - OSI)
+[✔] Experience conducting Static and Dynamic Malware Analysis
+[✔] Experience with XSS
+[✔] Experience with SIEM (Splunk)
+[✔] Has experience with OSINT, IMINT, GEOINT, and Reconnaissance
+[✔] Front-End Development (Javascript, React)
+[✔] Solid understanding of Programming Fundamentals
+[✔] Experience with Technical Writing
+[✔] Experience with JIRA and Confluence
+Topics in progress:
+[✔] Malware Analysis
+[✔] Digital Forensics
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Reverse Engineering 
