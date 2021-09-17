@@ -22,7 +22,7 @@ engineering as a hobby.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/L0WK3Y-IAAN)  [<img src='https://raw.githubusercontent.com/L0WK3Y-IAAN/L0WK3Y-IAAN/f6b22f7044314265318f7378340ea4fc06f2ceca/linkedin-svgrepo-com.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/l0wk3yiaansec//)  [<img src='https://raw.githubusercontent.com/L0WK3Y-IAAN/L0WK3Y-IAAN/839364ce0e800a3a145c8e8f367e5667779c8e26/home-svgrepo-com.svg' alt='website' height='40'>](https://iaansec.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/l0wk3y)  
 
-[![Website](https://img.shields.io/website?label=iaansec.com&style=for-the-badge&url=https%3A%2F%2Fiaansec.com)](https://iaansec.com)
+[![Website](https://img.shields.io/website?label=iaansec.com&style=for-the-badge&url=https%3A%2F%2Fiaansec.com)](https://iaansec.com) [![Website](https://img.shields.io/website?label=dev.to&style=for-the-badge&url=https%3A%2F%2Fdev.to/l0wk3y)](https://dev.to/l0wk3y)
 
 #
 
