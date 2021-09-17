@@ -1,4 +1,5 @@
 <img src="https://github.com/L0WK3Y-IAAN/L0WK3Y-IAAN/blob/main/ezgif.com-gif-maker.gif?raw=true" width=100% height=300>
+### ☺ About Me
 
 ### Hi there 👋, my name is Jonathan
 #### Aspiring Malware Analyst | Software Engineer
@@ -9,29 +10,6 @@ Applications. Enjoys learning about the cyber security field,
 specifically doing hands-on malware analysis and reverse
 engineering as a hobby.
 
-#
-
-### 💼 Experience
-- [✔] Experience doing Packet Analysis with Wireshark
-- [✔] Has conducted vulnerability research/assessment (MITRE ATT&CK, Nessus)
-- [✔] Experience with Google Dorking
-- [✔] Understands Linux fundamentals
-- [✔] Experience mapping networks with NMAP
-- [✔] Experience exploiting vulnerabilities with Metasploit
-- [✔] Experience developing and automating security tools with Python and C#
-- [✔] Understands HTTP fundamentals
-- [✔] Understands Networking Concepts (TCP/IP - OSI)
-- [✔] Experience conducting Static and Dynamic Malware Analysis
-- [✔] Experience with XSS
-- [✔] Experience with SIEM (Splunk)
-- [✔] Has experience with OSINT, IMINT, GEOINT, and Reconnaissance
-- [✔] Front-End Development (Javascript, React)
-- [✔] Solid understanding of Programming Fundamentals
-- [✔] Experience with Technical Writing
-- [✔] Experience with JIRA and Confluence
-  Topics in progress:
-- [✔] Malware Analysis
-- [✔] Digital Forensics
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Reverse Engineering 
@@ -40,6 +18,30 @@ engineering as a hobby.
 - 📫 How to reach me: l0wk3y@iaansec.net. 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I am also a music producer. 
+
+#
+
+### 💼 Experience
+<br /> [✔] Experience doing Packet Analysis with Wireshark
+<br /> [✔] Has conducted vulnerability research/assessment (MITRE ATT&CK, Nessus)
+<br /> [✔] Experience with Google Dorking
+<br /> [✔] Understands Linux fundamentals
+<br /> [✔] Experience mapping networks with NMAP
+<br /> [✔] Experience exploiting vulnerabilities with Metasploit
+<br /> [✔] Experience developing and automating security tools with Python and C#
+<br /> [✔] Understands HTTP fundamentals
+<br /> [✔] Understands Networking Concepts (TCP/IP - OSI)
+<br /> [✔] Experience conducting Static and Dynamic Malware Analysis
+<br /> [✔] Experience with XSS
+<br /> [✔] Experience with SIEM (Splunk)
+<br /> [✔] Has experience with OSINT, IMINT, GEOINT, and Reconnaissance
+<br /> [✔] Front-End Development (Javascript, React)
+<br /> [✔] Solid understanding of Programming Fundamentals
+<br /> [✔] Experience with Technical Writing
+<br /> [✔] Experience with JIRA and Confluence
+<br /> Topics in progress:
+<br /> [✔] Malware Analysis
+<br /> [✔] Digital Forensics
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/L0WK3Y-IAAN)  [<img src='https://raw.githubusercontent.com/L0WK3Y-IAAN/L0WK3Y-IAAN/f6b22f7044314265318f7378340ea4fc06f2ceca/linkedin-svgrepo-com.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/l0wk3yiaansec//)  [<img src='https://raw.githubusercontent.com/L0WK3Y-IAAN/L0WK3Y-IAAN/839364ce0e800a3a145c8e8f367e5667779c8e26/home-svgrepo-com.svg' alt='website' height='40'>](https://iaansec.com)  
 
