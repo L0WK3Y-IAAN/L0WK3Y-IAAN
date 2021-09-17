@@ -1,4 +1,5 @@
 <img src="https://github.com/L0WK3Y-IAAN/L0WK3Y-IAAN/blob/main/ezgif.com-gif-maker.gif?raw=true" width=100% height=300>
+
 ### ☺ About Me
 
 ### Hi there 👋, my name is Jonathan
@@ -22,7 +23,7 @@ engineering as a hobby.
 #
 
 ### 💼 Experience
-<br /> [✔] Experience doing Packet Analysis with Wireshark
+[✔] Experience doing Packet Analysis with Wireshark
 <br /> [✔] Has conducted vulnerability research/assessment (MITRE ATT&CK, Nessus)
 <br /> [✔] Experience with Google Dorking
 <br /> [✔] Understands Linux fundamentals
@@ -51,6 +52,8 @@ engineering as a hobby.
 <!-- BLOG-POST-LIST:END -->
 
 #
+
+### 📈 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN)](https://github.com/anuraghazra/github-readme-stats)
 
