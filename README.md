@@ -1,11 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
-
-<style>
-*{font-family: 'Montserrat', sans-serif;}  
-</style>
-
 ### Hi there 👋, my name is Jonathan
 #### Aspiring Malware Analyst | Software Engineer
 <img src="https://github.com/L0WK3Y-IAAN/L0WK3Y-IAAN/blob/main/ezgif.com-gif-maker.gif?raw=true" width=100% height=300>
@@ -37,6 +29,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <!-- BLOG-POST-LIST:END -->
 
 #
+<a href="https://tryhackme.com/p/l0wk3y" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/l0wk3y.png" alt="TryHackMe">
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN)](https://github.com/anuraghazra/github-readme-stats)
 
