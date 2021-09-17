@@ -25,6 +25,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Get a HackTheBox Invite Code! (Outdated)](https://dev.to/l0wk3y/how-to-get-a-hackthebox-invite-code-outdated-14i2)
 <!-- BLOG-POST-LIST:END -->
 
 #
