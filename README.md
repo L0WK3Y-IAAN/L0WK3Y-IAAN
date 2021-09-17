@@ -23,7 +23,7 @@ engineering as a hobby.
 
 [![Website](https://img.shields.io/website?label=iaansec.com&style=for-the-badge&url=https%3A%2F%2Fiaansec.com&color=green)](https://iaansec.com) [![Website](https://img.shields.io/website?label=dev.to&style=for-the-badge&url=https%3A%2F%2Fdev.to/l0wk3y&color=orange)](https://dev.to/l0wk3y) [![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com/l0wk3y&color=yellow)](https://github.com/L0WK3Y-IAAN) [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/l0wk3yiaansec/&color=blue)](https://www.linkedin.com/in/l0wk3yiaansec/)
 
-
+https://img.shields.io/static/v1?label=LinkedIn&message=LinkedIn&url=https://www.linkedin.com/in/l0wk3yiaansec/&color=blue
 #
 
 ### 💼 Experience
