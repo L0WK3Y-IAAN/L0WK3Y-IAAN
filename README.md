@@ -29,7 +29,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <!-- BLOG-POST-LIST:END -->
 
 #
-<img src="https://tryhackme-badges.s3.amazonaws.com/l0wk3y.png" alt="TryHackMe">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0WK3Y-IAAN)](https://github.com/anuraghazra/github-readme-stats)
 
