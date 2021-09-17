@@ -2,7 +2,9 @@
 #### Aspiring Malware Analyst | Software Engineer
 ![Aspiring Malware Analyst | Software Engineer](https://github.com/L0WK3Y-IAAN/L0WK3Y-IAAN/blob/main/ezgif.com-gif-maker.gif?raw=true)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+My name is Jonathan Suttle, and I am a Cyber Security enthusiast.
+
+My goal is to work my way into becoming a malware analyst and exploit developer, I am currently pursuing the GIAC: GREM certification along with a few other certifications. I have experience with malware analysis, reverse engineering, OSINT, penetration testing and software engineering.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
