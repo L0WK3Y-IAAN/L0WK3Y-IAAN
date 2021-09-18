@@ -55,6 +55,8 @@ engineering as a hobby.
 
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Network Security & Database Vulnerabilities](https://dev.to/l0wk3y/network-security-database-vulnerabilities-16jf)
+- [Introduction to Cybersecurity Tools & Cyber Attacks](https://dev.to/l0wk3y/introduction-to-cybersecurity-tools-cyber-attacks-43k3)
 - [How To Get a HackTheBox Invite Code! (Outdated)](https://dev.to/l0wk3y/how-to-get-a-hackthebox-invite-code-outdated-14i2)
 <!-- BLOG-POST-LIST:END -->
 
