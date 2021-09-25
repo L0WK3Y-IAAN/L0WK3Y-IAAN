@@ -55,6 +55,7 @@ engineering as a hobby.
 
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe - OhSINT Writeup](https://dev.to/l0wk3y/tryhackme-ohsint-writeup-4e4b)
 - [TryHackMe - Dunkle Materie Writeup](https://dev.to/l0wk3y/tryhackme-dunkle-materie-writeup-2chb)
 - [Network Security & Database Vulnerabilities](https://dev.to/l0wk3y/network-security-database-vulnerabilities-16jf)
 - [Introduction to Cybersecurity Tools & Cyber Attacks](https://dev.to/l0wk3y/introduction-to-cybersecurity-tools-cyber-attacks-43k3)
