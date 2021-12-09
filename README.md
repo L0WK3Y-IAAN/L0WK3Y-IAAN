@@ -55,11 +55,11 @@ engineering as a hobby.
 
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe - REloaded Writeup](https://dev.to/l0wk3y/tryhackme-reloaded-writeup-4n1o)
 - [TryHackMe - Classic Passwd](https://dev.to/l0wk3y/tryhackme-classic-passwd-3c8f)
 - [TryHackMe - OhSINT Writeup](https://dev.to/l0wk3y/tryhackme-ohsint-writeup-4e4b)
 - [TryHackMe - Dunkle Materie Writeup](https://dev.to/l0wk3y/tryhackme-dunkle-materie-writeup-2chb)
 - [Network Security &amp; Database Vulnerabilities](https://dev.to/l0wk3y/network-security-database-vulnerabilities-16jf)
-- [Introduction to Cybersecurity Tools &amp; Cyber Attacks](https://dev.to/l0wk3y/introduction-to-cybersecurity-tools-cyber-attacks-43k3)
 <!-- BLOG-POST-LIST:END -->
 
 #
