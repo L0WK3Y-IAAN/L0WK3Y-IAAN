@@ -55,11 +55,11 @@ engineering as a hobby.
 
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WannaCry Analysis Report](https://dev.to/l0wk3y/wannacry-analysis-report-g7c)
 - [TryHackMe | Searchlight - IMINT &lpar;Write-up&rpar;](https://dev.to/l0wk3y/tryhackme-searchlight-imint-write-up-2ee8)
 - [IAANSEC - BrickRoll &lpar;Official Write Up&rpar;](https://dev.to/l0wk3y/thm-brickroll-official-write-up-378d)
 - [TryHackMe - REloaded Writeup](https://dev.to/l0wk3y/tryhackme-reloaded-writeup-4n1o)
 - [TryHackMe - Classic Passwd](https://dev.to/l0wk3y/tryhackme-classic-passwd-3c8f)
-- [TryHackMe - OhSINT Writeup](https://dev.to/l0wk3y/tryhackme-ohsint-writeup-4e4b)
 <!-- BLOG-POST-LIST:END -->
 
 #
