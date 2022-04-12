@@ -30,26 +30,30 @@ engineering as a hobby.
 #
 
 ### 💼 Experience
-[✔]  Experience doing Packet Analysis with Wireshark
-<br /> [✔]  Has conducted vulnerability research/assessment (MITRE ATT&CK, Nessus)
-<br /> [✔]  Experience with Google Dorking
-<br /> [✔]  Understands Linux fundamentals
-<br /> [✔]  Experience mapping networks with NMAP
-<br /> [✔]  Experience exploiting vulnerabilities with Metasploit
-<br /> [✔]  Experience developing and automating security tools with Python and C#
-<br /> [✔]  Understands HTTP fundamentals
-<br /> [✔]  Understands Networking Concepts (TCP/IP - OSI)
-<br /> [✔]  Experience conducting Static and Dynamic Malware Analysis
-<br /> [✔]  Experience with XSS
-<br /> [✔]  Experience with SIEM (Splunk)
-<br /> [✔]  Has experience with OSINT, IMINT, GEOINT, and Reconnaissance
-<br /> [✔]  Front-End Development (Javascript, React)
-<br /> [✔]  Solid understanding of Programming Fundamentals
-<br /> [✔]  Experience with Technical Writing
-<br /> [✔]  Experience with JIRA and Confluence
-<br /> Topics in progress:
-<br /> [✔]  Malware Analysis
-<br /> [✔]  Digital Forensics
+✔️ Has conducted vulnerability research/assessment (MITRE ATT&CK, Nessus)
+✔️ Experience with .NET UI Development (Winforms)
+✔️ Experience working with API's
+✔️ Experience with Google Dorking
+✔️ Understands Linux fundamentals
+✔️ Experience mapping networks with NMAP
+✔️ Experience exploiting vulnerabilities with Metasploit
+✔️ Experience developing and automating security tools with Python and C#
+✔️ Understands HTTP fundamentals
+✔️ Experience with Virtual Machines (Hyper-V, Virtual Box, VMware ESXi, Proxmox)
+✔️ Understands Networking Concepts (TCP/IP - OSI)
+✔️ Experience conducting Static and Dynamic Malware Analysis and tools such as Ghidra, x64dbg, IDA, Wireshark, Radare2, and Sysinternals
+✔️ Experience reading and writing Assembly Experience conducting reverse engineering
+✔️ Experience with XSS Experience with SIEM (Splunk)
+✔️ Has experience with OSINT, IMINT, GEOINT, and Reconnaissance
+✔️ Front-End Development (Javascript, React)
+✔️ Experience with building security tools and automation (Python)
+✔️ Experience with ISAC to gather threat intelligence and collect IOCs
+✔️ Solid understanding of Programming Fundamentals and Languages
+(C, Python, Javascript, and C#/.NET)
+✔️ Experience with Technical Writing
+✔️ Experience with JIRA and Confluence
+✔️ Knowledge of Digital Forensics
+✔️ Has fundamental knowledge of SQL database querying and working with Firebase.
 
 #
 
