@@ -17,7 +17,7 @@ engineering as a hobby.
 - 🌱  I’m currently learning Reverse Engineering
 - 🤔  I’m looking for help with finding entry level work
 - 💬  Ask me about my work experience
-- 📫  How to reach me: l0wk3y@iaansec.net
+- 📫  How to reach me: jonny@iaansec.com
 - 😄  Pronouns: he/him
 - ⚡  Fun fact: I am also a music producer
 
