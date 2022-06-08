@@ -1,5 +1,5 @@
 [comment]: <> (<img src="https://github.com/L0WK3Y-IAAN/L0WK3Y-IAAN/blob/main/ezgif.com-gif-maker.gif?raw=true" width=100% height=300>)
-<img src="https://i.imgur.com/6FQDBlC.gif" width=100% height=500>
+<img src="https://i.imgur.com/VuJ2rIP.gif" width=100% height=400>
 
 ### ☺ About Me
 
