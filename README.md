@@ -59,11 +59,11 @@ engineering as a hobby.
 
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Landed A Job In Cyber Security With No Professional Experience, Certifications, Nor A Degree.](https://dev.to/l0wk3y/how-i-landed-a-job-in-cyber-security-with-no-professional-experience-certifications-nor-a-degree-2doc)
 - [IAANSEC | WannaCry Analysis Report](https://dev.to/l0wk3y/wannacry-analysis-report-g7c)
 - [TryHackMe | Searchlight - IMINT &lpar;Write-up&rpar;](https://dev.to/l0wk3y/tryhackme-searchlight-imint-write-up-2ee8)
 - [IAANSEC - BrickRoll &lpar;Official Write Up&rpar;](https://dev.to/l0wk3y/thm-brickroll-official-write-up-378d)
 - [TryHackMe - REloaded Writeup](https://dev.to/l0wk3y/tryhackme-reloaded-writeup-4n1o)
-- [TryHackMe - Classic Passwd](https://dev.to/l0wk3y/tryhackme-classic-passwd-3c8f)
 <!-- BLOG-POST-LIST:END -->
 
 #
