@@ -13,12 +13,9 @@ specifically doing hands-on malware analysis and reverse
 engineering as a hobby.
 
 
-- 🔭  I’m currently working on this page
-- 🌱  I’m currently learning Reverse Engineering
-- 🤔  I’m looking for help with finding entry level work
+- 🌱  Always learning
 - 💬  Ask me about my work experience
 - 📫  How to reach me: jonny@iaansec.com
-- 😄  Pronouns: he/him
 - ⚡  Fun fact: I am also a music producer
 
 
