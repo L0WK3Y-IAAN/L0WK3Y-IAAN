@@ -3,7 +3,7 @@
 
 ### 🙂 About Me
 
-### Hi there 👋, my name is Jonathan
+### Hi there 👋, my name is Jonny
 #### Aspiring Malware Analyst | Software Engineer
 Forward-thinking Software Engineer with background working
 effectively in dynamic environments. Fluent in Python and
