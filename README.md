@@ -19,7 +19,7 @@ engineering as a hobby.
 - ⚡  Fun fact: I am also a music producer
 
 
-[![Website](https://img.shields.io/website?label=Infophreak&style=for-the-badge&url=https%3A%2F%2Finfophreak.com%2Fauthor%2Fl0wk3y&color=orange)](https://infophreak.com/author/l0wk3y) [![Website](https://img.shields.io/website?label=dev.to&style=for-the-badge&url=https%3A%2F%2Fdev.to/l0wk3y&color=blue)](https://dev.to/l0wk3y) [![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com/l0wk3y&color=yellow)](https://github.com/L0WK3Y-IAAN) [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com/in/l0wk3yiaansec&color=blue)](https://www.linkedin.com/in/iaansec)
+[![Website](https://img.shields.io/website?label=Infophreak&style=for-the-badge&url=https%3A%2F%2Finfophreak.com%2Fauthor%2Fl0wk3y&color=orange)](https://infophreak.com/author/l0wk3y) [![Website](https://img.shields.io/website?label=dev.to&style=for-the-badge&url=https%3A%2F%2Fdev.to/l0wk3y&color=purple)](https://dev.to/l0wk3y) [![Website](https://img.shields.io/website?label=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com/l0wk3y&color=yellow)](https://github.com/L0WK3Y-IAAN) [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com/in/l0wk3yiaansec&color=blue)](https://www.linkedin.com/in/iaansec)
 
 
 
