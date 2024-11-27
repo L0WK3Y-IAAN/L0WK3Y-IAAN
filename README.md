@@ -1,7 +1,7 @@
 [comment]: <> (<img src="https://i.imgur.com/4QLtBTd.gif?raw=true" width=100% height=300>)
 <img src="https://i.imgur.com/sCWgXyr.gif?raw=true" width=100% height=500>
 
-### ☺ About Me
+### 🙂 About Me
 
 ### Hi there 👋, my name is Jonathan
 #### Aspiring Malware Analyst | Software Engineer
