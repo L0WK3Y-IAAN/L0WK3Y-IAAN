@@ -1,5 +1,5 @@
 [comment]: <> (<img src="https://i.imgur.com/4QLtBTd.gif?raw=true" width=100% height=300>)
-<img src="https://i.imgur.com/sCWgXyr.gif?raw=true" width=100% height=500>
+<img src="https://i.imgur.com/gKnOQrw.gif" width=100% height=500>
 
 ### 🙂 About Me
 
