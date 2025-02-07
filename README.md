@@ -71,5 +71,5 @@ engineering as a hobby.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=L0WK3Y-IAAN&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/L0WK3Y-IAAN)  
+
 
