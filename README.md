@@ -4,7 +4,7 @@
 ### 🙂 About Me
 
 ### Hi there 👋
-#### Aspiring Malware Analyst | Software Engineer
+#### Malware Analyst | Software Engineer
 Forward-thinking Software Engineer with background working
 effectively in dynamic environments. Fluent in Python and
 Javascript programming languages used to develop Web
