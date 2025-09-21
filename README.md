@@ -15,7 +15,7 @@ engineering as a hobby.
 
 - 🌱  Always learning
 - 💬  Ask me about my work experience
-- 📫  How to reach me: jonny@iaansec.com
+- 📫  How to reach me: jonnyiaansec@proton.me
 - ⚡  Fun fact: I am also a music producer
 
 
