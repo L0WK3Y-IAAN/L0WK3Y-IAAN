@@ -4,13 +4,7 @@
 ### 🙂 About Me
 
 ### Hi there 👋
-#### Security Engineer
-Forward-thinking Software Engineer with background working
-effectively in dynamic environments. Fluent in Python and
-Javascript programming languages used to develop Web
-Applications. Enjoys learning about the cyber security field,
-specifically doing hands-on malware analysis and reverse
-engineering as a hobby.
+Security professional with 4 years of experience seeking opportunities in DevSecOps, Security Engineering, and SOC while continuously building upon my passion for secure software development and application security. Skilled in Python, JavaScript, C, and C#. Hands-on experience in web application development and security testing using industry-standard security tools. Enthusiastic about cybersecurity and information security, with over 3 years of practical experience conducting malware analysis, reverse engineering, and threat intelligence research.
 
 
 - 🌱  Always learning
